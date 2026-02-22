@@ -38,5 +38,5 @@ jobs:
         path: target/*.jar
         
     - name: Execute the java file
-      run: java -jar target/*.jar
+      run: java -jar target/my-app-1.0-SNAPSHOT.jar
       
