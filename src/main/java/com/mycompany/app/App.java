@@ -18,6 +18,7 @@ public class App {
 		String upper = StringUtils.upperCase(trimmed);
 		System.out.println("Uppercase: " + upper);
 		
+		System.out.println("----Bye Bye World!-----");
 		
     }
 }
